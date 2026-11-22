@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fth_dev.marscolony",
+      "sha256_cert_fingerprints": [
+        "64:31:3D:70:82:C5:B8:3D:D1:20:5F:C7:78:83:46:2D:63:A9:96:3D:DF:7C:05:FD:64:E9:E0:3A:A0:0F:55:B7"
+      ]
+    }
+  }
+]
